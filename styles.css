@@ -1,0 +1,45 @@
+body{
+    background:gray;
+    margin:auto;
+}
+header{
+    background: white;
+    padding: 5px;
+}
+header h1{
+    margin: 0%;
+    
+}
+div.container{
+    width: 600px;
+    right: 200px;
+    margin: auto;
+    background: white;
+}
+.header-post {
+    background:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    margin-top: 60px;
+}
+
+.coment {
+    padding: 5px;
+
+}
+
+span{ color: gray;}
+
+.img_post{
+    width: 600px;    
+    height: 400px;
+    overflow: hidden;
+}
+img {
+    width: 100%;
+}
+.titulo{
+    text-align: center;
+}
